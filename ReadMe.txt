@@ -1,0 +1,1 @@
+This project demonstrates client side application flow for OAUTH2.
